@@ -28,12 +28,4 @@ This project is a simple **Contact Form** built using **HTML**, **CSS**, and **J
 - Email: Must be a valid email format (e.g., user@example.com)
 - Message: Must not be empty
 
-## ❓ Interview Questions
-
-1. **How to validate form inputs in JavaScript?**
-2. **What is `event.preventDefault()` used for?**
-3. **How to use regex to validate an email?**
-
----
-
 Made with ❤️ for learning and practice!
